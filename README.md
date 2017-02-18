@@ -8,7 +8,6 @@ browser's network inspector with the "copy as cURL" feature.
 
 ![wuzz screencast](docs/images/screencast.gif)
 
-
 ## Installation and usage
 
 ```
@@ -35,7 +34,7 @@ Keybinding                              | Description
 <kbd>Ctrl+R</kbd>                       | Send request
 <kbd>Ret</kbd>                          | Send request (only from URL view)
 <kbd>Ctrl+S</kbd>                       | Save response
-<kbd>Ctrl+C</kbd>                       | Quit
+<kbd>Ctrl+Q</kbd>                       | Quit
 <kbd>Ctrl+K</kbd>, <kbd>Shift+Tab</kbd> | Previous view
 <kbd>Ctlr+J</kbd>, <kbd>Tab</kbd>       | Next view
 <kbd>Alt+H</kbd>                        | Toggle history
@@ -51,7 +50,6 @@ Keybinding                              | Description
 <kbd>F7</kbd>                           | Jump to search
 <kbd>F8</kbd>                           | Jump to response headers
 <kbd>F9</kbd>                           | Jump to response body
-
 
 ## TODO
 

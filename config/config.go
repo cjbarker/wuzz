@@ -41,7 +41,7 @@ var defaultTimeoutDuration, _ = time.ParseDuration("1m")
 var DefaultKeys = map[string]map[string]string{
 	"global": map[string]string{
 		"CtrlR": "submit",
-		"CtrlC": "quit",
+		"CtrlQ": "quit",
 		"CtrlS": "save",
 		"Tab":   "nextView",
 		"CtrlJ": "nextView",
